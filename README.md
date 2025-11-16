@@ -1,0 +1,2 @@
+# I had an issue with part 5
+I followed the instructions, but the dependabot couldn't find any dependency files in the directory. Everything should be the same as the instructions in the activity. I had the same issue with my lab, but for that one, GitHub's own registry responded with a toomanyrequests/rate limiter.
